@@ -22,8 +22,8 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 I have saved the application functionality in 3 screenshots form which you can found in following location /assets/img
 
-* ![screenshots] (./assets/img/img.jpg)
+* ![screenshots](./assets/img/img.jpg)
 
 * [The URL of the GitHub repository](https://github.com/Ruchi479/Work-Day-Scheduler.git)
 
-* [The URL of my deployed application]()
+* [The URL of my deployed application](https://ruchi479.github.io/Work-Day-Scheduler/)
